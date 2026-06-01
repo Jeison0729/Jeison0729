@@ -1,8 +1,9 @@
 # 👋 Hola, soy Jeison Andrés Ruiz Farfán
 
 💻 **Backend Developer | Java | Spring Boot**
-🎓 Técnico en Desarrollo de Sistemas de Información
-🎓 Profesional en Administración de Empresas
+
+* 🎓 Técnico en Desarrollo de Sistemas de Información
+* 🎓 Profesional en Administración de Empresas
 
 📍 Bogotá, Colombia
 🌎 Abierto a oportunidades en Latinoamérica, España y trabajo remoto.
@@ -11,7 +12,7 @@
 
 ## 🚀 Sobre mí
 
-Soy Backend Developer especializado en Java y Spring Boot, con experiencia en el desarrollo de APIs REST, diseño de bases de datos relacionales y construcción de soluciones empresariales.
+Soy Backend Developer especializado en Java y Spring Boot, con experiencia en desarrollo de APIs REST, diseño de bases de datos relacionales y construcción de soluciones empresariales.
 
 He participado en el desarrollo de un ERP veterinario colaborativo, implementando lógica de negocio, persistencia con JPA/Hibernate, modelado de bases de datos y arquitectura en capas.
 
@@ -21,7 +22,7 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, arq
 
 ---
 
-## 🛠 Tecnologías
+## 🚀 Stack Principal
 
 ### Backend
 
@@ -41,9 +42,9 @@ Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, arq
 
 ### Frontend
 
-* Angular 19 (fundamentos)
+* Angular 19 (básico)
 
-### DevOps y Herramientas
+### Herramientas
 
 * Git
 * GitHub
@@ -73,14 +74,10 @@ Sistema de gestión integral veterinaria desarrollado bajo metodología Scrum.
 
 * Diseño y modelado de base de datos relacional (~70 tablas)
 * Desarrollo de APIs REST
-* Implementación de lógica de negocio para:
-
-  * Agenda médica
-  * Inventarios
-  * Facturación
-  * Gestión de clientes y mascotas
-* Manejo de transacciones y validaciones críticas
+* Implementación de lógica de negocio para agenda médica, inventarios, facturación, clientes y mascotas
 * Persistencia mediante JPA/Hibernate
+* Manejo de transacciones y validaciones críticas
+* Pruebas de endpoints con Postman
 * Trabajo colaborativo con GitHub y Jira
 * Participación como Scrum Master del equipo
 
@@ -88,17 +85,15 @@ Sistema de gestión integral veterinaria desarrollado bajo metodología Scrum.
 
 ## 📚 Actualmente aprendiendo
 
-* Docker
-* Angular
-* AS400 / IBM i
-* Buenas prácticas de arquitectura backend
+* Arquitectura backend y buenas prácticas de desarrollo
 * Optimización y escalabilidad de aplicaciones Java
+* Profundización en IBM i / AS400
 
 ---
 
 ## 🌐 Conecta conmigo
 
-📧 Email: [ruizjeisonf@gmail.com](mailto:ruizjeisonf@gmail.com)
+📧 Email: **[ruizjeisonf@gmail.com](mailto:ruizjeisonf@gmail.com)**
 
 🔗 LinkedIn:
 [www.linkedin.com/in/jeison-andres-ruiz-farfan-41246a15a](http://www.linkedin.com/in/jeison-andres-ruiz-farfan-41246a15a)
