@@ -1,80 +1,107 @@
-# 👋 Hola, soy Jeison Andrés Ruiz F
+# 👋 Hola, soy Jeison Andrés Ruiz Farfán
 
-💻 **Desarrollador de Software Junior | Backend**  
-🎓 Técnico en Desarrollo de Sistemas de Información  
-📍 Perú y Colombia (abierto a oportunidades LATAM y el resto del mundo)
+💻 **Backend Developer | Java | Spring Boot**
+🎓 Técnico en Desarrollo de Sistemas de Información
+🎓 Profesional en Administración de Empresas
 
-Soy desarrollador de software con formación en **Java, Spring Boot y bases de datos relacionales**, enfocado en la creación de **aplicaciones empresariales y APIs REST**.  
-Cuento con experiencia previa en administración y operaciones logísticas, lo que me permite entender procesos de negocio y transformarlos en **soluciones tecnológicas eficientes**.
-
-Actualmente busco mi **primera oportunidad profesional como desarrollador**, donde pueda seguir creciendo y aportar con buenas prácticas, análisis y compromiso.
+📍 Bogotá, Colombia
+🌎 Abierto a oportunidades en Latinoamérica, España y trabajo remoto.
 
 ---
 
-## 🚀 Tecnologías
+## 🚀 Sobre mí
 
-**Lenguajes**
-- Java
+Soy Backend Developer especializado en Java y Spring Boot, con experiencia en el desarrollo de APIs REST, diseño de bases de datos relacionales y construcción de soluciones empresariales.
 
-**Frameworks**
-- Spring Boot
+He participado en el desarrollo de un ERP veterinario colaborativo, implementando lógica de negocio, persistencia con JPA/Hibernate, modelado de bases de datos y arquitectura en capas.
 
-**Bases de datos**
-- MySQL
-- SQL Server
+Mi formación en Administración de Empresas me permite comprender procesos de negocio y transformarlos en soluciones tecnológicas eficientes, mantenibles y alineadas con necesidades reales.
 
-**Herramientas**
-- Git
-- GitHub
-- Postman
-
-**Arquitectura**
-- APIs REST
-- Arquitectura en capas
-- SOA
+Actualmente continúo fortaleciendo mis conocimientos en desarrollo backend, arquitectura de software y entornos empresariales.
 
 ---
 
-## 📌 Proyectos Destacados
+## 🛠 Tecnologías
 
-### 🔹 VetManadaWoof
-🟦 Java | 🟩 Spring Boot | ⚙️ MySQL | 🎨 React
+### Backend
 
-Sistema de gestión veterinaria desarrollado de forma colaborativa:
+* Java 17 / 21
+* Spring Boot
+* JPA / Hibernate
+* RESTful APIs
 
-- API REST para gestión de clientes, mascotas, agenda, inventario y ventas  
-- Diseño de base de datos relacional normalizada  
-- Implementación de servicios, controladores y reglas de negocio  
-- Integración backend–frontend  
+### Bases de Datos
+
+* MySQL
+* PostgreSQL
+* SQL
+* Diseño relacional
+* Procedimientos almacenados
+* Optimización mediante índices
+
+### Frontend
+
+* Angular 19 (fundamentos)
+
+### DevOps y Herramientas
+
+* Git
+* GitHub
+* Docker
+* Postman
+* Jira
+
+### IBM i / AS400
+
+* Librerías, objetos y miembros
+* Archivos físicos y lógicos (PF/LF)
+* Fuentes y módulos
+* Save Files (SAVF)
+* Pantallas (DSPF)
 
 ---
 
-### 🔹 Sistema de Solicitudes de Crédito (Académico)
-🟦 Java | 🟩 Spring Boot | 🌐 REST API + SOAP
+## 📌 Proyecto Destacado
 
-- Gestión de clientes y evaluación de créditos  
-- Validaciones de edad, ingresos y capacidad de pago  
-- Reglas de negocio según tipo de crédito  
-- Arquitectura en capas (Controller, Service, Validator)  
+### ERP Veterinario (VetManadaWoof)
+
+**Java 21 | Spring Boot | JPA/Hibernate | MySQL**
+
+Sistema de gestión integral veterinaria desarrollado bajo metodología Scrum.
+
+#### Principales contribuciones
+
+* Diseño y modelado de base de datos relacional (~70 tablas)
+* Desarrollo de APIs REST
+* Implementación de lógica de negocio para:
+
+  * Agenda médica
+  * Inventarios
+  * Facturación
+  * Gestión de clientes y mascotas
+* Manejo de transacciones y validaciones críticas
+* Persistencia mediante JPA/Hibernate
+* Trabajo colaborativo con GitHub y Jira
+* Participación como Scrum Master del equipo
 
 ---
 
-### 🔹 Aplicación Web SOA – Restaurante
-🟨 C# | 🗄️ Base de datos + API
+## 📚 Actualmente aprendiendo
 
-- Consumo de servicios web  
-- Gestión de insumos y operaciones  
-- Arquitectura orientada a servicios (SOA)  
-
----
-
-## 🧠 Otras competencias
-- Análisis de procesos empresariales  
-- Inglés B2  
-- Trabajo en equipo y aprendizaje continuo  
+* Docker
+* Angular
+* AS400 / IBM i
+* Buenas prácticas de arquitectura backend
+* Optimización y escalabilidad de aplicaciones Java
 
 ---
 
-## 📫 Contacto
-📧 **Email:** ruizjeisonf@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/jeison-andres-ruiz-farfan-41246a15a
+## 🌐 Conecta conmigo
+
+📧 Email: [ruizjeisonf@gmail.com](mailto:ruizjeisonf@gmail.com)
+
+🔗 LinkedIn:
+[www.linkedin.com/in/jeison-andres-ruiz-farfan-41246a15a](http://www.linkedin.com/in/jeison-andres-ruiz-farfan-41246a15a)
+
+🐙 GitHub:
+github.com/Jeison0729
